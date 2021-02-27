@@ -1,0 +1,12 @@
+{
+  "name": "demo_babel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  
+  "dependencies": {
+    "@babel/cli": "^7.13.0",
+    "@babel/core": "^7.13.8",
+    "@babel/plugin-proposal-pipeline-operator": "^7.12.13"
+  }
+}
